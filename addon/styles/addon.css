@@ -1,0 +1,11 @@
+.ff-dropdown {
+  display: inline-block;
+}
+
+.ff-dropdown .ff-dropdown-menu {
+  display: none;
+}
+
+.ff-dropdown.is-open .ff-dropdown-menu {
+  display: block;
+}
